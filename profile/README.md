@@ -1,5 +1,3 @@
-# WiiQare Remittance Project
-
 ## WiiQare Project Charter
 
 ### Vision Statement. 
